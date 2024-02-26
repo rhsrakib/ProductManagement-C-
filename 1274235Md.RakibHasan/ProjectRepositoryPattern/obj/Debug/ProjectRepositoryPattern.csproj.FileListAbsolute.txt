@@ -1,0 +1,31 @@
+C:\Users\Admin\Desktop\1274235\ProjectRepositoryPattern\ProjectRepositoryPattern\bin\Debug\ProjectRepositoryPattern.exe.config
+C:\Users\Admin\Desktop\1274235\ProjectRepositoryPattern\ProjectRepositoryPattern\bin\Debug\ProjectRepositoryPattern.exe
+C:\Users\Admin\Desktop\1274235\ProjectRepositoryPattern\ProjectRepositoryPattern\bin\Debug\ProjectRepositoryPattern.pdb
+C:\Users\Admin\Desktop\1274235\ProjectRepositoryPattern\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\1274235\ProjectRepositoryPattern\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\1274235\ProjectRepositoryPattern\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\1274235\ProjectRepositoryPattern\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.exe
+C:\Users\Admin\Desktop\1274235\ProjectRepositoryPattern\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.pdb
+F:\Md. Rakib Hasan (1274235)\C#\Project\ProjectRepositoryPattern\ProjectRepositoryPattern\bin\Debug\ProjectRepositoryPattern.exe.config
+F:\Md. Rakib Hasan (1274235)\C#\Project\ProjectRepositoryPattern\ProjectRepositoryPattern\bin\Debug\ProjectRepositoryPattern.exe
+F:\Md. Rakib Hasan (1274235)\C#\Project\ProjectRepositoryPattern\ProjectRepositoryPattern\bin\Debug\ProjectRepositoryPattern.pdb
+F:\Md. Rakib Hasan (1274235)\C#\Project\ProjectRepositoryPattern\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.csproj.AssemblyReference.cache
+F:\Md. Rakib Hasan (1274235)\C#\Project\ProjectRepositoryPattern\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.csproj.SuggestedBindingRedirects.cache
+F:\Md. Rakib Hasan (1274235)\C#\Project\ProjectRepositoryPattern\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.csproj.CoreCompileInputs.cache
+F:\Md. Rakib Hasan (1274235)\C#\Project\ProjectRepositoryPattern\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.exe
+F:\Md. Rakib Hasan (1274235)\C#\Project\ProjectRepositoryPattern\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.pdb
+C:\Users\USSL\Desktop\1274235Md.RakibHasan\ProjectRepositoryPattern\bin\Debug\ProjectRepositoryPattern.exe.config
+C:\Users\USSL\Desktop\1274235Md.RakibHasan\ProjectRepositoryPattern\bin\Debug\ProjectRepositoryPattern.exe
+C:\Users\USSL\Desktop\1274235Md.RakibHasan\ProjectRepositoryPattern\bin\Debug\ProjectRepositoryPattern.pdb
+C:\Users\USSL\Desktop\1274235Md.RakibHasan\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.csproj.AssemblyReference.cache
+C:\Users\USSL\Desktop\1274235Md.RakibHasan\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\USSL\Desktop\1274235Md.RakibHasan\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\USSL\Desktop\1274235Md.RakibHasan\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.exe
+C:\Users\USSL\Desktop\1274235Md.RakibHasan\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.pdb
+C:\Users\rhsra\Downloads\1274235Md.RakibHasan\1274235Md.RakibHasan\ProjectRepositoryPattern\bin\Debug\ProjectRepositoryPattern.exe.config
+C:\Users\rhsra\Downloads\1274235Md.RakibHasan\1274235Md.RakibHasan\ProjectRepositoryPattern\bin\Debug\ProjectRepositoryPattern.exe
+C:\Users\rhsra\Downloads\1274235Md.RakibHasan\1274235Md.RakibHasan\ProjectRepositoryPattern\bin\Debug\ProjectRepositoryPattern.pdb
+C:\Users\rhsra\Downloads\1274235Md.RakibHasan\1274235Md.RakibHasan\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.csproj.AssemblyReference.cache
+C:\Users\rhsra\Downloads\1274235Md.RakibHasan\1274235Md.RakibHasan\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\rhsra\Downloads\1274235Md.RakibHasan\1274235Md.RakibHasan\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.exe
+C:\Users\rhsra\Downloads\1274235Md.RakibHasan\1274235Md.RakibHasan\ProjectRepositoryPattern\obj\Debug\ProjectRepositoryPattern.pdb
